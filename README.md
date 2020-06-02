@@ -1,2 +1,2 @@
-# csuzly.github.com
+# csuzly.github.io
 Demo page
